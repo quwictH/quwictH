@@ -2,7 +2,7 @@
 <p align="center">🚀 Electrical & Electronics Engineering Student | 🧠 Tech Explorer | 🏋️‍♂️ Fitness & Football Enthusiast</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" alt="developer-gif" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="389" alt="developer-gif" />
 </p>
 
 ---
